@@ -1,6 +1,6 @@
 # Java Broadcast Server
 
-A simple Java-based broadcast server and client application.
+A Java-based broadcast server and client application.
 
 ## Files
 
